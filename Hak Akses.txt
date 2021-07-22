@@ -1,0 +1,9 @@
+Username
+Admin :tepi_randi@gmail.com
+password : tepi
+
+guru :nuryana146@gmail.com
+password : nuryana
+
+siswa : NadaA@gmail.com
+password : nada
